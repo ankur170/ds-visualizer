@@ -1,10 +1,13 @@
-# NeetCode 150 — 21 Mindmaps (Hinglish, mermaid source)
-Kisi bhi block ko https://mermaid.live me paste karke diagram dekho. Branch labels Hinglish me hain, technical terms English me.
+# NeetCode 150 — 21 Mindmaps (Hinglish, Redux Dark Color theme)
 
 ---
 
 ## #1 Merge K Sorted Lists
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Merge K Sorted Lists))
     Engine kaise solve karein
@@ -31,6 +34,10 @@ mindmap
 
 ## #2 Sliding Window
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Sliding Window))
     Window ka type
@@ -58,6 +65,10 @@ mindmap
 
 ## #3 Two Pointers
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Two Pointers))
     Flavor type
@@ -82,6 +93,10 @@ mindmap
 
 ## #4 Prefix Sum + HashMap
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Prefix Sum + HashMap))
     Dimension kis type ka
@@ -105,6 +120,10 @@ mindmap
 
 ## #5 Monotonic Stack
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Monotonic Stack))
     Variants types
@@ -129,6 +148,10 @@ mindmap
 
 ## #6 Binary Search (value & answer-space)
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Binary Search))
     Array par array me search
@@ -154,6 +177,10 @@ mindmap
 
 ## #7 Trees & Graph Traversal (DFS / BFS / Multi-source)
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((DFS / BFS))
     Traversal ghumne ke tareeke
@@ -180,6 +207,10 @@ mindmap
 
 ## #8 Topological Sort (DAG ordering)
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Topological Sort))
     Engine kaise solve karein
@@ -205,6 +236,10 @@ mindmap
 
 ## #9 Union-Find (Disjoint Set Union)
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Union-Find / DSU))
     Core operations main kaam
@@ -229,6 +264,10 @@ mindmap
 
 ## #10 Backtracking
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Backtracking))
     Shape type
@@ -253,6 +292,10 @@ mindmap
 
 ## #11 Dynamic Programming
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Dynamic Programming))
     Family types
@@ -278,6 +321,10 @@ mindmap
 
 ## #12 Intervals & Sweep Line
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Intervals / Sweep))
     Operation kya karna hai
@@ -302,6 +349,10 @@ mindmap
 
 ## #13 Design / In-Memory Stores (LRU, TTL, iterators)
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Design / In-Memory))
     Base builds kya banate hain
@@ -326,6 +377,10 @@ mindmap
 
 ## #14 Fast & Slow Pointers / Linked-List Surgery
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Fast/Slow and List Surgery))
     Fast/slow pointers
@@ -353,6 +408,10 @@ mindmap
 
 ## #15 Trie (Prefix Tree)
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Trie))
     Structure banawat
@@ -381,6 +440,10 @@ mindmap
 
 ## #16 Dijkstra / Bellman-Ford / MST (weighted graphs)
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Dijkstra / BF / MST))
     Shortest path chhota raasta
@@ -407,6 +470,10 @@ mindmap
 
 ## #17 Bit Manipulation
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Bit Manipulation))
     Core tricks jugaad
@@ -433,6 +500,10 @@ mindmap
 
 ## #18 Math & Geometry
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Math and Geometry))
     Number theory
@@ -459,6 +530,10 @@ mindmap
 
 ## #19 Greedy (interval scheduling, Huffman)
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Greedy))
     Common patterns
@@ -484,6 +559,10 @@ mindmap
 
 ## #20 Segment Tree / Fenwick (BIT) — the mutable-range escalation
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Segment Tree / Fenwick))
     Structures banawat
@@ -511,6 +590,10 @@ mindmap
 
 ## #21 Concurrency Primitives (cross-cutting: Anthropic / Netflix / Citadel)
 ```mermaid
+---
+config:
+  theme: redux-dark-color
+---
 mindmap
   root((Concurrency Primitives))
     Primitives basic tools
