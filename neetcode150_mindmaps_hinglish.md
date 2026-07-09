@@ -1,8 +1,5 @@
 # NeetCode 150 — 21 Mindmaps (Hinglish) — Redux Dark Color
 
-`theme: redux-dark-color` — **mermaid 11.14.0+ chahiye** (latest mermaid.live / Mermaid Studio).
-**GitHub par ye render NAHI hoga** ('Unable to render rich display') kyunki GitHub ka mermaid purana hai.
-GitHub ke liye `neetcode150_mindmaps_hinglish.md` use karo.
 
 ---
 
