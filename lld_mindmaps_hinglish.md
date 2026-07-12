@@ -11,7 +11,7 @@ config:
   themeVariables:
     primaryColor: "#2D3250"
     primaryTextColor: "#E6E6F0"
-    primaryBorderColor: "#7A86B6"
+    primaryBorderColor: "#1A1A2E"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
     fontSize: "15px"
@@ -60,7 +60,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -110,7 +110,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -160,7 +160,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -211,7 +211,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -261,7 +261,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -314,7 +314,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -364,7 +364,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -414,7 +414,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -464,7 +464,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -514,7 +514,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
@@ -564,7 +564,7 @@ config:
   darkMode: true
   themeVariables:
     primaryColor: "#2D3250"
-    primaryTextColor: "#E6E6F0"
+    primaryTextColor: "#1A1A2E"
     primaryBorderColor: "#7A86B6"
     lineColor: "#7A86B6"
     textColor: "#E6E6F0"
