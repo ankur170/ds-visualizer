@@ -1,6 +1,4 @@
-# LLD / Machine-Coding — 12 Pattern Mindmaps (Hinglish, GitHub-safe dark)
-
-GitHub par render hota hai (`theme: base` + `darkMode`). Koi bhi block mermaid.live me bhi chalega.
+# LLD  — 12 Pattern Mindmaps 
 
 ---
 
